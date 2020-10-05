@@ -33,9 +33,7 @@
   <a href="mailto:kyhar72@gmail.com">
     <img align="left" alt="Martin Aleksandrov | Gmail" width="26px" src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Gmail.svg" />
   </a>
-  <a href="https://twitter.com/PiyushP7pravin">
-    <img align="left" alt="Piyush Pravin | Twitter" width="26px" src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Twitter.svg" />
-  </a>
+  
   
 <br>
 <br>
