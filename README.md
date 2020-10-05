@@ -5,7 +5,7 @@
 ### 🌱 I’m currently learning React Native and Redux. 
 <br>
 <br>
-### ✨ Tech stacks currently using 
+<h4> ✨ Tech stacks currently using </h4>
 <br>
 <br>
 <code><a href="https://www.javascript.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></a></code>
