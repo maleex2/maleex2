@@ -5,7 +5,7 @@
 ### 🌱 I’m currently learning React Native and Redux. 
 <br>
 <br>
-##### ✨ Tech stacks currently using 
+### ✨ Tech stacks currently using 
 <br>
 <br>
 <code><a href="https://www.javascript.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></a></code>
@@ -24,8 +24,8 @@
 <br>
 <br>
 <br>
-**💬 Ask me about anything, I'll be happy to help!** <br>
-**💬 My inbox is always open, Contact me**
+💬 Ask me about anything, I'll be happy to help! <br>
+💬 My inbox is always open, Contact me
 <br>
 <br> 
   <a href="https://www.linkedin.com/in/martin-aleksandrov-322642195/">
