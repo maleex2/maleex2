@@ -1,18 +1,14 @@
 <h1> Hi there..! <img src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Hi.gif" width="29px"> </h1>
 
-<!--
-**piyushP7pravin/piyushP7pravin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
--->
-**🔭 I’m currently working on my Last Year Project (see bottom) and Looking for internship/graduate/junior position. **<br>
-**🌱 I’m currently learning React Native and Redux.**
+** 🔭 I’m currently working on my Last Year Project (see bottom) and Looking for internship/graduate/junior position. **<br>
+** 🌱 I’m currently learning React Native and Redux. **
 <br>
 <br>
 **✨ Tech stacks currently using** <br>
 <br>
 <code><a href="https://www.javascript.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></a></code>
-<code><a href="https://www.reactjs.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/react/react-ar21.svg"></a></code>
+<code><a href="https://www.reactjs.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></a></code>
 <code><a href="https://nodejs.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></a></code>
 <code><a href="https://java.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></a></code>
 <code><a href="https://python.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></a></code>
@@ -20,7 +16,7 @@ Here are some ideas to get you started:
 <code><a href="https://www.mysql.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></a></code>
 <code><a href="https://www.expressjs.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg"></a></code>
 <code><a href="https://www.json.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/json/json-ar21.svg"></a></code>
-<code><a href="https://www.jquery.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/juery/jquery-ar21.svg"></a></code>
+<code><a href="https://www.jquery.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/jquery/jquery-ar21.svg"></a></code>
 <br>
 <br>
 <br>
@@ -44,6 +40,9 @@ Here are some ideas to get you started:
 <br>
 <br>
 
+** Last year Project - Accessible Nomads **
+Nomads are pre-packed medications that can be used to assist a person who has a complex prescription needs by providing a programme that ensures the right medicines are taken at the right times. The purpose of this project is to investigate the feasibility of providing an app to help with this process. An initial step would be to review similar apps that are available particularly from the point of view of accessibility. This is important because advancing years often brings the need for an increasing range of medication. App development and evaluation would focus specifically on the usability of the system for more senior users who typically find mobile devices difficult to deal with.
 
+Implementation would require a multiplatform mobile device framework such as React Native and it is important that interaction with a backend server is available as a way of storing data and allowing adherence to medication protocols to be assessed.
 
 
