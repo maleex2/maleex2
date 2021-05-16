@@ -1,11 +1,11 @@
-<h1> Hi there..! <img src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Hi.gif" width="29px"> </h1>
+<h1> Hi there! <img src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Hi.gif" width="29px"> </h1>
 
 
-### 🔭 I’m currently working on my Last Year Project (see bottom) and Looking for internship/graduate/junior position. <br>
-### 🌱 I’m currently learning React Native and Redux. 
+### 🔭 I’m Looking for a junior position. <br>
+### 🌱 I’m currently learning C#. 
 <br>
 <br>
-<h4> ✨ Tech stacks currently using </h4>
+<h4> ✨ Tech stack </h4>
 <br>
 <br>
 <code><a href="https://www.javascript.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></a></code>
