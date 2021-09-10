@@ -2,7 +2,7 @@
 
 
 ### 🔭 I’m working as a Full-Stack dev with more than 1 year experience <br>
-### 🌱 I’m currently learning Docker. 
+### 🌱 I’m currently learning Docker. Cloud computing with Python is something I plan to master  
 <br>
 <br>
 <h4> ✨ Tech stack </h4>
