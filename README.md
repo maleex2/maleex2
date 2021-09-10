@@ -1,8 +1,8 @@
 <h1> Hi there! <img src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Hi.gif" width="29px"> </h1>
 
 
-### 🔭 I’m working as a Full-Stack dev. <br>
-### 🌱 I’m currently learning webpack. 
+### 🔭 I’m working as a Full-Stack dev with more than 1 year experience <br>
+### 🌱 I’m currently learning Docker. 
 <br>
 <br>
 <h4> ✨ Tech stack </h4>
@@ -20,6 +20,13 @@
 <code><a href="https://www.jquery.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/jquery/jquery-ar21.svg"></a></code>
 <code><a href="https://materializecss.com/getting-started.html/" target="_blank"><img height="50" src="https://github.com/prplx/svg-logos/blob/master/svg/materialize.svg"></a></code>
 <code><a href="https://getbootstrap.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"></a></code>
+<code><a href="https://https://laravel.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/laravel/laravel-ar21.svg"></a></code>
+<code><a href="https://https://php.net/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/php/php-ar21.svg"></a></code>
+<code><a href="https://www.typescriptlang.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg"></a></code>
+<code><a href="https://sass-lang.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-ar21.svg"></a></code>
+<code><a href="https://www.docker.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></a></code>
+<code><a href="https://gitlab.com/" target="_blank"><img height="50" src="https://https://www.vectorlogo.zone/logos/gitlab/gitlab-ar21.svg"></a></code>
+<code><a href="https://webpack.js.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/js_webpack/js_webpack-ar21.svg"></a></code>
 
 <br>
 <br>
@@ -28,7 +35,7 @@
 <br>
 <br>
 💬 Ask me about anything, I'll be happy to help! <br>
-💬 My inbox is always open, Contact me
+💬 My inbox is always open, contact me!
 <br>
 <br> 
   <a href="https://www.linkedin.com/in/martin-aleksandrov-322642195/">
