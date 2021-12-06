@@ -2,7 +2,7 @@
 
 
 ### 🔭 I’m working as a Full-Stack dev  <br>
-### 🌱 I’m currently Spring  
+### 🌱 I’m currently learning Spring  
 <br>
 <br>
 <h4> ✨ Tech stack </h4>
