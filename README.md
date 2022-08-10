@@ -3,6 +3,8 @@
 
 ### 🔭 I’m working as a Full-Stack dev  <br>
 ### 🌱 I’m currently learning Spring 
+<br>
+<br>
 
 <a href="https://martin-aleksandrov.netlify.app/">Check out my humble portfolio</a>
 
