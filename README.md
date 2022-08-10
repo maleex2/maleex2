@@ -12,6 +12,8 @@
 <code><a href="https://www.reactjs.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></a></code>
 <code><a href="https://nodejs.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></a></code>
 <code><a href="https://java.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></a></code>
+<code><a href="https://spring.io/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg"></a></code>
+<code><a href="https://www.rabbitmq.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-ar21.svg"></a></code>
 <code><a href="https://python.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></a></code>
 <code><a href="https://git-scm.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></a></code>
 <code><a href="https://www.mysql.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></a></code>
@@ -27,6 +29,8 @@
 <code><a href="https://www.docker.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></a></code>
 <code><a href="https://gitlab.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/gitlab/gitlab-ar21.svg"></a></code>
 <code><a href="https://webpack.js.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/js_webpack/js_webpack-ar21.svg"></a></code>
+
+
 
 <br>
 <br>
